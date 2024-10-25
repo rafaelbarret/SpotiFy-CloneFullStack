@@ -35,6 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-![spotify](C:\Users\rafao\OneDrive\Área de Trabalho\Projetos\Projetos React Js\spotify-Clone\spotify-clone\images\spotify.png)
-![spotify](C:\Users\rafao\OneDrive\Área de Trabalho\Projetos\Projetos React Js\spotify-Clone\spotify-clone\images\spotify1.png)
-![spotify](C:\Users\rafao\OneDrive\Área de Trabalho\Projetos\Projetos React Js\spotify-Clone\spotify-clone\images\spotify2.png)
+![spotify](./images/spotify.png)
+![spotify1](./images/spotify1.png)
+![spotify2](./images/spotify2.png)
+
