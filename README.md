@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+![spotify](C:\Users\rafao\OneDrive\Área de Trabalho\Projetos\Projetos React Js\spotify-Clone\spotify-clone\images\spotify.png)
+![spotify](C:\Users\rafao\OneDrive\Área de Trabalho\Projetos\Projetos React Js\spotify-Clone\spotify-clone\images\spotify1.png)
+![spotify](C:\Users\rafao\OneDrive\Área de Trabalho\Projetos\Projetos React Js\spotify-Clone\spotify-clone\images\spotify2.png)

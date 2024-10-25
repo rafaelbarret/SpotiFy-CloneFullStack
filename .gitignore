@@ -7,6 +7,7 @@ password.txt
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+.Leia-me.txt
 
 # testing
 /coverage
@@ -29,6 +30,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+
 
 # vercel
 .vercel
